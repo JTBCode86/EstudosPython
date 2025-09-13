@@ -1,4 +1,4 @@
-from validaPalavras.validacoes import encontrar_palavras_longas
+from validacoes.funcoes import encontrar_palavras_longas
 
 texto = input("Digite um texto: ")
 palavras_longas = encontrar_palavras_longas(texto)
