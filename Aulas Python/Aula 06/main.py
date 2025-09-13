@@ -18,10 +18,5 @@ def main():
         print("\nResposta inválida. Por favor, digite 'sim' ou 'não'.")
 
 if __name__ == "__main__":
-    main()    
-        
-        
-
-
-
-
+    limpar_tela()
+    main()
