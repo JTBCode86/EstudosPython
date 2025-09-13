@@ -1,4 +1,4 @@
-from contador import contar_palavras
+from contador.contador import contar_palavras
 
 frase = input('Digite uma frase: ').strip()
 

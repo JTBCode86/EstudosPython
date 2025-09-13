@@ -1,5 +1,5 @@
-from calcular import valor_total_gorjeta
-from calcular import valor_total_pagar
+from gorjeta.calcular import valor_total_gorjeta
+from gorjeta.calcular import valor_total_pagar
  
 total_conta = float(input('Digite o valor da conta: '))
 porcentagem = float(input('Digite a porcentagem de gorjeta: '))
