@@ -1,7 +1,7 @@
 # Estudos Python
 Este repositório contém exercícios relacionados a linguagem python. Seu objetivo é praticar a lógica de programação estruturada e orientada a objetos de forma simples e descomplicada.
 
-# O que você encontrará neste repositório?
+## O que você encontrará neste repositório?
 Abaixo um breve resumo do que pode ser utilizado para estudos em cada aula.
 
 ## Breve descrição
