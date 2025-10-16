@@ -4,7 +4,7 @@ Este repositório contém exercícios relacionados a linguagem python. Seu objet
 # O que você encontrará neste repositório?
 Abaixo um breve resumo do que pode ser utilizado para estudos em cada aula.
 
-# Aulas
+## Aulas
 Cada aula contem arquivos de funções e um segundo arquivo sendo main onde realiza
 a execução do programa.
 
@@ -38,16 +38,16 @@ Nesta aula, criamos uma lógica para adivinhação. O computador seleciona um de
 
 O computador responde se, está proximo do número escolhido ou não.
 
-# Aula 09
+## Aula 09
 Neste programa criamos uma calculadora que realiza as operações matemáticas basicas.
 
-# Aula 10
+## Aula 10
 Neste programa python validamos qual produto obteve o maior numero de vendas entre dois valores de entrada fornecidos.
 
-# Aula 11
+## Aula 11
 Neste exercício, validamos se a temperatura esta dentro do permitido para a utilização de um datacenter. A temperatura deve estar contida até 25 graus.
 
-# Aula 12
+## Aula 12
 Neste exercício, validamos o IMC tendo como entrada duas variaveis peso e altura.
 
 ## Continua...
