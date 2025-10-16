@@ -4,9 +4,10 @@ Este repositório contém exercícios relacionados a linguagem python. Seu objet
 # O que você encontrará neste repositório?
 Abaixo um breve resumo do que pode ser utilizado para estudos em cada aula.
 
-## Aulas
-Cada aula contem arquivos de funções e um segundo arquivo sendo main onde realiza
-a execução do programa.
+## Breve descrição
+Cada aula contem arquivos de funções e um segundo arquivo sendo main ou app onde realiza a execução do programa.
+
+A estrutura das aulas basicamente é sempre a mesma.
 
 ## Aula 01
 Esta aula é a inicial. Está aula contém dois arquivos o main.py e o app.py onde um realiza a contagem de palavras e outro soma dois valores.
